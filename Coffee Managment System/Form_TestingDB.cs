@@ -35,7 +35,6 @@ namespace Coffee_Managment_System
                 {
                     tbResult.Text = "Connected";
                     tbResult.ForeColor = Color.Blue;
-                    tbResult.
                 }
                 else
                 {
