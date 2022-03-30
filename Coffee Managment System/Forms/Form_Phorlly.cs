@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Coffee_Managment_System
+namespace Coffee_Managment_System.Forms
 {
-    public partial class Form1 : Form
+    public partial class Form_Phorlly : Form
     {
-        public Form1()
+        public Form_Phorlly()
         {
             InitializeComponent();
         }

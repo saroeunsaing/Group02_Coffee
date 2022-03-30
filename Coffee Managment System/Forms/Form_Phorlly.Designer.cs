@@ -1,6 +1,7 @@
-﻿namespace Coffee_Managment_System
+﻿
+namespace Coffee_Managment_System.Forms
 {
-    partial class Form1
+    partial class Form_Phorlly
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +31,15 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // Form_Phorlly
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(526, 300);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(789, 585);
+            this.Font = new System.Drawing.Font("Khmer OS", 12F);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "Form_Phorlly";
+            this.Text = "Form_Phorlly";
             this.ResumeLayout(false);
 
         }
@@ -44,4 +47,3 @@
         #endregion
     }
 }
-
